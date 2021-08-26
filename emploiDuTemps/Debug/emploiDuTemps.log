@@ -1,0 +1,28 @@
+﻿  afficheurConsole.cpp
+C:\Users\HP\source\repos\Nouveau dossier\emploiDuTemps - Copie (2)\cpp\afficheurConsole.cpp(755,21): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\HP\source\repos\Nouveau dossier\emploiDuTemps - Copie (2)\cpp\afficheurConsole.cpp(767,22): warning C4018: '<' : incompatibilité signed/unsigned
+  cours.cpp
+  formation.cpp
+  gestionFichier.cpp
+C:\Users\HP\source\repos\Nouveau dossier\emploiDuTemps - Copie (2)\cpp\gestionFichier.cpp(56,7): warning C4101: 'curseur' : variable locale non référencée
+  horaire.cpp
+  listeCours.cpp
+C:\Users\HP\source\repos\Nouveau dossier\emploiDuTemps - Copie (2)\cpp\listeCours.cpp(41,10): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\HP\source\repos\Nouveau dossier\emploiDuTemps - Copie (2)\cpp\listeCours.cpp(42,10): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\HP\source\repos\Nouveau dossier\emploiDuTemps - Copie (2)\cpp\listeCours.cpp(62,20): warning C4018: '<' : incompatibilité signed/unsigned
+  listeRessources.cpp
+C:\Users\HP\source\repos\Nouveau dossier\emploiDuTemps - Copie (2)\cpp\listeRessources.cpp(37,7): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\HP\source\repos\Nouveau dossier\emploiDuTemps - Copie (2)\cpp\listeRessources.cpp(48,7): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\HP\source\repos\Nouveau dossier\emploiDuTemps - Copie (2)\cpp\listeRessources.cpp(60,10): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\HP\source\repos\Nouveau dossier\emploiDuTemps - Copie (2)\cpp\listeRessources.cpp(116,7): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\HP\source\repos\Nouveau dossier\emploiDuTemps - Copie (2)\cpp\listeRessources.cpp(127,7): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\HP\source\repos\Nouveau dossier\emploiDuTemps - Copie (2)\cpp\listeRessources.cpp(138,10): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\HP\source\repos\Nouveau dossier\emploiDuTemps - Copie (2)\cpp\listeRessources.cpp(194,7): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\HP\source\repos\Nouveau dossier\emploiDuTemps - Copie (2)\cpp\listeRessources.cpp(206,7): warning C4018: '<' : incompatibilité signed/unsigned
+C:\Users\HP\source\repos\Nouveau dossier\emploiDuTemps - Copie (2)\cpp\listeRessources.cpp(218,10): warning C4018: '<' : incompatibilité signed/unsigned
+  main.cpp
+  professeur.cpp
+  ressource.cpp
+  salle.cpp
+  Génération de code en cours...
+  emploiDuTemps.vcxproj -> C:\Users\HP\source\repos\Nouveau dossier\emploiDuTemps - Copie (2)\Debug\emploiDuTemps.exe

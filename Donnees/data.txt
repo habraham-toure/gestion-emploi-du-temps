@@ -1,0 +1,10 @@
+// INFO : Stockage des données
+//Formation '------nomformation--------' ------Nb Etudiant-------' -------- nombre Heure Max-----
+formation ::::::::::::M2 12  10
+
+//Professeur 'nomprofesseur'
+professeur Marion 
+
+//Salle 'nomsalle' NbPlaces
+
+//Cours Nsemaine Njour(0-6) Nheure(1-4) 'nomformation' 'nomprofesseur' 'nomsalle'
